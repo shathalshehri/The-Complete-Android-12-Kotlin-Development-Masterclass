@@ -1,2 +1,2 @@
 # The-Complete-Android-12-Kotlin-Development-Masterclass
-The Complete Android 12 Kotlin Development Masterclass on Udemy
+  Android App development course on Udemy
